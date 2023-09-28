@@ -1,4 +1,4 @@
-# django-web-app
+Instructions
 
 #For Beginners !!
 Must Follow these steps .... !
